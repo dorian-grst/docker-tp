@@ -2,6 +2,8 @@
 
 > npm i
 
+> node ace generate:key
+
 # Mes tests
 
 > docker build -t docker-tp:0.0.1 -f Dockerfile .
